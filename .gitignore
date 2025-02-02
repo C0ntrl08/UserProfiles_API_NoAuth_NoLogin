@@ -1,0 +1,34 @@
+# .NET build
+obj/
+bin/
+
+# Visual Studio
+.vscode/
+*.code-workspace
+.vs/
+*.user
+*.suo
+
+# User-specific files
+*.rsuser
+*.userprefs
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+*.tlg
+*.trace
+log/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# MySQL
+*.mysql.sqllog
