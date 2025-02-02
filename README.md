@@ -1,4 +1,4 @@
-# User_Profiles Backend without Authentication and authorization
+# User_Profiles Backend without Authentication and Authorization
 
 This is a backend .NET project, similar in structure to applications often built from scratch.
 As it is only intended for training purposes, neither Authentication nor Authorisation is included.
