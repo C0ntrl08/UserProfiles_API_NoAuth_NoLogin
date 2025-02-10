@@ -13,8 +13,11 @@ The allocation of Controllers was also important to access the endpoints (CRUD o
 
 ## Features
 • List all the saved users
+
 • List all the users for the given UserId
+
 • Create new user
+
 • Update the already saved user
 
 ## Technologies Used
